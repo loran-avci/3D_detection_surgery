@@ -1,4 +1,4 @@
-# 3Automated image labeling and marker-less deep-learning-based 3D detection for surgical wires
+# Automated image labeling and marker-less deep-learning-based 3D detection for surgical wires
 
 Augmented reality in surgery is becoming increasingly essential to support surgeons. Larger surgical tools are already detected to support the surgeon’s work, but
 smaller objects are still mostly neglected. Surgical wires, called K-wires, are used in various surgical disciplines. The tracking of K-wires would thus facilitate computerassisted
